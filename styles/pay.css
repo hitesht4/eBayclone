@@ -1,0 +1,90 @@
+#bodybox{
+    width:90%;
+    margin:auto;
+}
+#A{
+    background-color: #c2f2ef;
+    height:60px;
+    
+}
+.a{
+    font-size: 14px;
+    padding:20px 20px;  
+}
+.b{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+#link{
+    text-decoration: underline;
+}
+.col>div{
+    /* border:1px solid red; */
+    height:60px;
+}
+
+#b>p{
+    margin-top:0px;
+}
+h5{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+input{
+    
+    margin-left: 20px;
+}
+label{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#total{
+    font-size: 20px;
+    font-weight: bold;
+}
+#buy{
+    
+    margin-top:10px;
+    height:50px;
+    background-color: #0654ba;
+    color:white;
+    width:230px;
+    border-radius: 30px;
+}
+#table{
+   
+    padding-top:30px;
+}
+table,#buy{
+    margin-left:-35px;
+    
+}
+#alert,#car,#Cvvv,#exp,#laname,#finame{
+    color:red;
+    margin-left: 20px;
+}
+.one{
+  border:0.3px solid grey;
+  margin-top: 20px;
+  margin-left:20px;
+}
+#coupon{
+    width:100%;
+    margin-left: 75px;
+    justify-content: flex-start !important;
+    height:40px;
+    margin-bottom: 30px;
+    margin-top:30px;
+}
+input{
+    width:45%;
+
+}
+tr{
+    padding:5px;
+}
+
