@@ -93,7 +93,7 @@ https://agitated-ramanujan-30a916.netlify.app/
 - CSS
 - Javascript
 - Local Storage
-- Bootstrap   
+
 
 ---
 
